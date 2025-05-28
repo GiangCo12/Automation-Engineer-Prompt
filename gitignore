@@ -1,0 +1,7 @@
+*.zip
+*.mov
+*.mp4
+.env
+*.json
+*.db
+__pycache__/
